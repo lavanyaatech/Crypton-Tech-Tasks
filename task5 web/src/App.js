@@ -34,7 +34,7 @@ const App = () => {
           <div className="text-center">
             <button className="btn btn-light">Play</button>
           </div>
-        </div>
+  </div>
         <div className="ms-3 text-center">
           <div className="bg-primary text-white p-2 rounded mb-2">72%</div>
           <div className="bg-dark text-white p-2 rounded">28%</div>
